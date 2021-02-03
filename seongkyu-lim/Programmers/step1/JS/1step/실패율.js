@@ -13,6 +13,7 @@ function solution(N, stages) {
             }
         }
         logic.push(cnt/(cnt2 + cnt))
+        //
         //배열의 원하는 곳에 값 추가해야한다.
         cnt = 0;
         cnt2 = 0;
